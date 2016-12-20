@@ -1,2 +1,2 @@
-# MyPrototype
-A simple prototype
+# MyPrototypes
+mobile prototypes
