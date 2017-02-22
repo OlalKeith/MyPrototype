@@ -1,2 +1,2 @@
-# MyPrototypes
-mobile prototypes
+# PriorityMobile Mockups
+mobile mock ups
