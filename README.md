@@ -1,2 +1,2 @@
-# PriorityMobile Mockups
+# Interactive Mobile Mockups
 mobile mock ups
